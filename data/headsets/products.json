@@ -1,0 +1,708 @@
+{
+  "products": [
+    {
+      "id": "hyperx-cloud-ii",
+      "name": "HyperX Cloud II",
+      "brand": "HyperX",
+      "priceUsd": 99.99,
+      "imageUrl": "/images/placeholders/hyperx-cloud-ii.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00SAYCXWG",
+      "shortSummary": "A versatile wired gaming headset with excellent sound quality and comfort for long gaming sessions.",
+      "pros": [
+        "Comfortable memory foam ear cushions",
+        "Detachable noise-cancelling microphone",
+        "Compatible with PC, PS5, Xbox, and Switch",
+        "Durable aluminum frame"
+      ],
+      "cons": [
+        "No wireless option",
+        "USB sound card only works on PC",
+        "Slightly bulky for travel"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "switch", "closed-back", "mid-range"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "music"],
+        "platforms": ["pc", "ps5", "xbox", "switch"],
+        "batteryHours": null,
+        "weightGrams": 320,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "steelseries-arctis-7",
+      "name": "SteelSeries Arctis 7",
+      "brand": "SteelSeries",
+      "priceUsd": 149.99,
+      "imageUrl": "/images/placeholders/steelseries-arctis-7.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07FZVXS8H",
+      "shortSummary": "Premium wireless gaming headset with lossless 2.4GHz connection and 24-hour battery life.",
+      "pros": [
+        "Excellent wireless range and stability",
+        "24-hour battery life",
+        "Crystal-clear bidirectional microphone",
+        "Ski goggle suspension headband for comfort"
+      ],
+      "cons": [
+        "No Bluetooth connectivity",
+        "USB dongle required",
+        "Pricier than wired alternatives"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "pc", "ps5", "closed-back", "premium"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["pc", "ps5"],
+        "batteryHours": 24,
+        "weightGrams": 350,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "razer-blackshark-v2",
+      "name": "Razer BlackShark V2",
+      "brand": "Razer",
+      "priceUsd": 59.99,
+      "imageUrl": "/images/placeholders/razer-blackshark-v2.jpg",
+      "amazonUrl": "https://amazon.com/dp/B086PLKVPT",
+      "shortSummary": "Budget-friendly wired gaming headset with THX Spatial Audio and exceptional mic quality.",
+      "pros": [
+        "THX Spatial Audio for immersive gaming",
+        "Lightweight at 262 grams",
+        "Removable HyperClear microphone",
+        "Memory foam ear cushions"
+      ],
+      "cons": [
+        "Build feels less premium",
+        "Requires USB sound card for full features",
+        "No console compatibility without adapter"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "closed-back", "budget"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 262,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "corsair-hs60",
+      "name": "Corsair HS60 Pro",
+      "brand": "Corsair",
+      "priceUsd": 49.99,
+      "imageUrl": "/images/placeholders/corsair-hs60.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07X9W2HYN",
+      "shortSummary": "Affordable wired headset with Discord-certified microphone and comfortable design.",
+      "pros": [
+        "Discord-certified microphone",
+        "Detachable mic for music listening",
+        "Memory foam earpads",
+        "Compatible with all platforms"
+      ],
+      "cons": [
+        "Bass could be stronger",
+        "Short cable length",
+        "No USB sound card included"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "switch", "closed-back", "budget"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "work-calls"],
+        "platforms": ["pc", "ps5", "xbox", "switch"],
+        "batteryHours": null,
+        "weightGrams": 290,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "logitech-g-pro-x",
+      "name": "Logitech G PRO X",
+      "brand": "Logitech",
+      "priceUsd": 129.99,
+      "imageUrl": "/images/placeholders/logitech-g-pro-x.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07PDFBJZD",
+      "shortSummary": "Professional-grade wired gaming headset with Blue VO!CE mic technology and DTS Headphone:X 2.0.",
+      "pros": [
+        "Blue VO!CE mic filters for broadcast-quality audio",
+        "Premium leatherette and memory foam pads",
+        "DTS Headphone:X 2.0 surround sound",
+        "Tournament-ready build quality"
+      ],
+      "cons": [
+        "Expensive for wired headset",
+        "Software required for full features",
+        "Heavier than competitors"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "closed-back", "premium"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "streaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 320,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "sennheiser-game-one",
+      "name": "Sennheiser GAME ONE",
+      "brand": "Sennheiser",
+      "priceUsd": 169.99,
+      "imageUrl": "/images/placeholders/sennheiser-game-one.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00GWU8FTK",
+      "shortSummary": "Premium open-back gaming headset with audiophile-grade sound quality and exceptional comfort.",
+      "pros": [
+        "Audiophile sound quality",
+        "Open-back design for natural soundstage",
+        "Excellent microphone clarity",
+        "Plush velour ear pads"
+      ],
+      "cons": [
+        "No noise isolation (open-back)",
+        "Not ideal for loud environments",
+        "Premium pricing"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "open-back", "premium", "audiophile"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "music"],
+        "platforms": ["pc", "ps5", "xbox"],
+        "batteryHours": null,
+        "weightGrams": 285,
+        "noiseCancelling": false,
+        "openBack": true,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "astro-a40-tr",
+      "name": "Astro A40 TR",
+      "brand": "Astro",
+      "priceUsd": 199.99,
+      "imageUrl": "/images/placeholders/astro-a40-tr.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07NSK8H4X",
+      "shortSummary": "Professional wired gaming headset with customizable speaker tags and MixAmp compatibility.",
+      "pros": [
+        "Tournament-ready design",
+        "Swappable microphone and speaker tags",
+        "Optional MixAmp for advanced audio control",
+        "Comfortable for all-day wear"
+      ],
+      "cons": [
+        "Very expensive",
+        "MixAmp sold separately",
+        "Requires desk space for full setup"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "closed-back", "premium"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "streaming"],
+        "platforms": ["pc", "ps5", "xbox"],
+        "batteryHours": null,
+        "weightGrams": 369,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "sony-pulse-3d",
+      "name": "Sony PULSE 3D",
+      "brand": "Sony",
+      "priceUsd": 99.99,
+      "imageUrl": "/images/placeholders/sony-pulse-3d.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08H99878P",
+      "shortSummary": "Official PS5 wireless headset with 3D Audio support and sleek modern design.",
+      "pros": [
+        "Optimized for PS5 3D Audio",
+        "Wireless with dual noise-cancelling mics",
+        "12-hour battery life",
+        "USB-C charging"
+      ],
+      "cons": [
+        "Limited to PlayStation ecosystem",
+        "Average build quality",
+        "Mic quality could be better"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "ps5", "closed-back", "mid-range"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["ps5", "pc"],
+        "batteryHours": 12,
+        "weightGrams": 292,
+        "noiseCancelling": true,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "microsoft-xbox-wireless",
+      "name": "Microsoft Xbox Wireless Headset",
+      "brand": "Microsoft",
+      "priceUsd": 99.99,
+      "imageUrl": "/images/placeholders/microsoft-xbox-wireless.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08WFD42G5",
+      "shortSummary": "Official Xbox wireless headset with rotating earcup dials and Dolby Atmos support.",
+      "pros": [
+        "Unique rotating earcup controls",
+        "Dolby Atmos and Windows Sonic support",
+        "15-hour battery life",
+        "Works with Xbox Series X|S, PC, and mobile"
+      ],
+      "cons": [
+        "Tight fit for larger heads",
+        "Bluetooth and Xbox wireless can't be used simultaneously",
+        "No PS5 compatibility"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "xbox", "pc", "closed-back", "mid-range"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["xbox", "pc"],
+        "batteryHours": 15,
+        "weightGrams": 315,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "audio-technica-m50x",
+      "name": "Audio-Technica ATH-M50x",
+      "brand": "Audio-Technica",
+      "priceUsd": 149.99,
+      "imageUrl": "/images/placeholders/audio-technica-m50x.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00HVLUR86",
+      "shortSummary": "Professional studio headphones with exceptional sound quality for music and content creation.",
+      "pros": [
+        "Studio-grade sound quality",
+        "Detachable cables (straight and coiled)",
+        "90-degree swiveling earcups",
+        "Extremely durable"
+      ],
+      "cons": [
+        "No built-in microphone",
+        "Coiled cable tangles easily",
+        "Tight clamp force initially"
+      ],
+      "tags": ["wired", "music", "no-mic", "pc", "closed-back", "premium", "audiophile"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["music", "studio"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 284,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "beyerdynamic-dt-990-pro",
+      "name": "Beyerdynamic DT 990 PRO",
+      "brand": "Beyerdynamic",
+      "priceUsd": 149.99,
+      "imageUrl": "/images/placeholders/beyerdynamic-dt-990-pro.jpg",
+      "amazonUrl": "https://amazon.com/dp/B0011UB9CQ",
+      "shortSummary": "Open-back studio headphones with wide soundstage, perfect for mixing and critical listening.",
+      "pros": [
+        "Exceptional soundstage and imaging",
+        "Velour earpads for all-day comfort",
+        "German engineering and build quality",
+        "Replaceable parts for longevity"
+      ],
+      "cons": [
+        "No microphone",
+        "Open-back leaks sound",
+        "Requires amplification for best performance"
+      ],
+      "tags": ["wired", "music", "no-mic", "pc", "open-back", "premium", "audiophile"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["music", "studio"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 250,
+        "noiseCancelling": false,
+        "openBack": true,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "jabra-evolve2-65",
+      "name": "Jabra Evolve2 65",
+      "brand": "Jabra",
+      "priceUsd": 219.99,
+      "imageUrl": "/images/placeholders/jabra-evolve2-65.jpg",
+      "amazonUrl": "https://amazon.com/dp/B087DTQKT2",
+      "shortSummary": "Professional wireless headset designed for remote work with Microsoft Teams certification.",
+      "pros": [
+        "Microsoft Teams certified",
+        "Active noise cancellation",
+        "37-hour battery life",
+        "Busylight indicator for status"
+      ],
+      "cons": [
+        "Expensive for work headset",
+        "Not ideal for gaming",
+        "Limited music quality"
+      ],
+      "tags": ["wireless", "work-calls", "has-mic", "pc", "closed-back", "premium", "noise-cancelling"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["work-calls"],
+        "platforms": ["pc"],
+        "batteryHours": 37,
+        "weightGrams": 176,
+        "noiseCancelling": true,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "logitech-h390",
+      "name": "Logitech H390",
+      "brand": "Logitech",
+      "priceUsd": 29.99,
+      "imageUrl": "/images/placeholders/logitech-h390.jpg",
+      "amazonUrl": "https://amazon.com/dp/B000UXZQ42",
+      "shortSummary": "Budget USB headset with noise-cancelling mic, perfect for video calls and online meetings.",
+      "pros": [
+        "Very affordable",
+        "Plug-and-play USB connection",
+        "Noise-cancelling microphone",
+        "Padded headband and earcups"
+      ],
+      "cons": [
+        "Basic sound quality",
+        "Plastic build feels cheap",
+        "Non-detachable cable"
+      ],
+      "tags": ["wired", "work-calls", "has-mic", "pc", "closed-back", "budget", "noise-cancelling"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["work-calls"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 152,
+        "noiseCancelling": true,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "bose-quietcomfort-45",
+      "name": "Bose QuietComfort 45",
+      "brand": "Bose",
+      "priceUsd": 329.99,
+      "imageUrl": "/images/placeholders/bose-qc45.jpg",
+      "amazonUrl": "https://amazon.com/dp/B098FKXT8L",
+      "shortSummary": "Premium wireless headphones with industry-leading noise cancellation and all-day comfort.",
+      "pros": [
+        "Best-in-class noise cancellation",
+        "24-hour battery life",
+        "Comfortable for all-day wear",
+        "Excellent for travel and work"
+      ],
+      "cons": [
+        "Very expensive",
+        "Microphone quality just okay",
+        "Not optimized for gaming"
+      ],
+      "tags": ["wireless", "work-calls", "music", "has-mic", "pc", "closed-back", "premium", "noise-cancelling"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["work-calls", "music"],
+        "platforms": ["pc"],
+        "batteryHours": 24,
+        "weightGrams": 240,
+        "noiseCancelling": true,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "mpow-h7",
+      "name": "Mpow H7",
+      "brand": "Mpow",
+      "priceUsd": 39.99,
+      "imageUrl": "/images/placeholders/mpow-h7.jpg",
+      "amazonUrl": "https://amazon.com/dp/B01NAJGGA2",
+      "shortSummary": "Budget wireless headphones with 18-hour battery life and soft memory foam earcups.",
+      "pros": [
+        "Very affordable",
+        "18-hour battery life",
+        "Comfortable memory foam earcups",
+        "Decent sound for price"
+      ],
+      "cons": [
+        "Build quality feels cheap",
+        "Average microphone quality",
+        "No active noise cancellation"
+      ],
+      "tags": ["wireless", "music", "work-calls", "has-mic", "pc", "closed-back", "budget"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["music", "work-calls"],
+        "platforms": ["pc"],
+        "batteryHours": 18,
+        "weightGrams": 220,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "18 months"
+      }
+    },
+    {
+      "id": "turtle-beach-stealth-600",
+      "name": "Turtle Beach Stealth 600",
+      "brand": "Turtle Beach",
+      "priceUsd": 79.99,
+      "imageUrl": "/images/placeholders/turtle-beach-stealth-600.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07BDDW6BJ",
+      "shortSummary": "Wireless gaming headset designed specifically for PS5 and PS4 with flip-to-mute mic.",
+      "pros": [
+        "PS5 3D Audio compatible",
+        "15-hour battery life",
+        "Flip-to-mute microphone",
+        "Glasses-friendly design"
+      ],
+      "cons": [
+        "PS5/PS4 only (no Xbox)",
+        "Plastic build feels less premium",
+        "Occasional wireless interference"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "ps5", "closed-back", "mid-range"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["ps5"],
+        "batteryHours": 15,
+        "weightGrams": 280,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "corsair-virtuoso-rgb",
+      "name": "Corsair Virtuoso RGB Wireless",
+      "brand": "Corsair",
+      "priceUsd": 179.99,
+      "imageUrl": "/images/placeholders/corsair-virtuoso-rgb.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07X8SJ8HM",
+      "shortSummary": "Premium wireless gaming headset with broadcast-grade microphone and luxurious build quality.",
+      "pros": [
+        "Stunning aluminum design",
+        "Broadcast-grade removable mic",
+        "20-hour wireless battery",
+        "High-fidelity audio drivers"
+      ],
+      "cons": [
+        "Expensive",
+        "Tight fit for larger heads",
+        "RGB lighting drains battery faster"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "pc", "ps5", "closed-back", "premium"],
+      "specs": {
+        "connection": "both",
+        "hasMic": true,
+        "useCases": ["gaming", "streaming"],
+        "platforms": ["pc", "ps5"],
+        "batteryHours": 20,
+        "weightGrams": 360,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "koss-porta-pro",
+      "name": "Koss Porta Pro",
+      "brand": "Koss",
+      "priceUsd": 39.99,
+      "imageUrl": "/images/placeholders/koss-porta-pro.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00001P4ZH",
+      "shortSummary": "Legendary on-ear headphones with surprising sound quality and lifetime warranty.",
+      "pros": [
+        "Incredible value for sound quality",
+        "Lifetime warranty",
+        "Ultra-portable and foldable",
+        "Classic retro design"
+      ],
+      "cons": [
+        "No microphone",
+        "On-ear can be uncomfortable for long sessions",
+        "Lacks noise isolation"
+      ],
+      "tags": ["wired", "music", "no-mic", "pc", "open-back", "budget", "audiophile"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["music"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 60,
+        "noiseCancelling": false,
+        "openBack": true,
+        "warranty": "Lifetime"
+      }
+    },
+    {
+      "id": "philips-shp9500",
+      "name": "Philips SHP9500",
+      "brand": "Philips",
+      "priceUsd": 74.99,
+      "imageUrl": "/images/placeholders/philips-shp9500.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00ENMK1DW",
+      "shortSummary": "Open-back audiophile headphones with breathable design and exceptional clarity.",
+      "pros": [
+        "Excellent soundstage and clarity",
+        "Breathable mesh earpads",
+        "Lightweight and comfortable",
+        "Great value for audiophiles"
+      ],
+      "cons": [
+        "No microphone (but V-MODA BoomPro compatible)",
+        "Open-back leaks sound",
+        "Plastic build"
+      ],
+      "tags": ["wired", "music", "no-mic", "pc", "open-back", "mid-range", "audiophile"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["music", "gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 240,
+        "noiseCancelling": false,
+        "openBack": true,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "cooler-master-mh751",
+      "name": "Cooler Master MH751",
+      "brand": "Cooler Master",
+      "priceUsd": 79.99,
+      "imageUrl": "/images/placeholders/cooler-master-mh751.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07JH3LSHN",
+      "shortSummary": "Versatile wired headset based on Takstar Pro 82 drivers with detachable mic and cable.",
+      "pros": [
+        "Excellent sound quality for price",
+        "Fully detachable cable and mic",
+        "Comfortable plush earpads",
+        "Works as regular headphones without mic"
+      ],
+      "cons": [
+        "No RGB lighting",
+        "Mic quality is average",
+        "Limited software features"
+      ],
+      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "closed-back", "mid-range"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": true,
+        "useCases": ["gaming", "music"],
+        "platforms": ["pc", "ps5", "xbox"],
+        "batteryHours": null,
+        "weightGrams": 270,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "hyperx-cloud-alpha-wireless",
+      "name": "HyperX Cloud Alpha Wireless",
+      "brand": "HyperX",
+      "priceUsd": 199.99,
+      "imageUrl": "/images/placeholders/hyperx-cloud-alpha-wireless.jpg",
+      "amazonUrl": "https://amazon.com/dp/B09N3Y4YJW",
+      "shortSummary": "Wireless gaming headset with record-breaking 300-hour battery life and DTS Headphone:X.",
+      "pros": [
+        "Insane 300-hour battery life",
+        "DTS Headphone:X Spatial Audio",
+        "Comfortable for marathon sessions",
+        "Dual-chamber drivers for clarity"
+      ],
+      "cons": [
+        "Very expensive",
+        "PC only (no console support)",
+        "Heavier than competitors"
+      ],
+      "tags": ["wireless", "gaming", "has-mic", "pc", "closed-back", "premium"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": 300,
+        "weightGrams": 320,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "anker-soundcore-q30",
+      "name": "Anker Soundcore Life Q30",
+      "brand": "Anker",
+      "priceUsd": 79.99,
+      "imageUrl": "/images/placeholders/anker-soundcore-q30.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08HMWZBXC",
+      "shortSummary": "Budget wireless headphones with active noise cancellation and 40-hour battery life.",
+      "pros": [
+        "Active noise cancellation",
+        "40-hour battery life",
+        "Comfortable memory foam earcups",
+        "Excellent value for money"
+      ],
+      "cons": [
+        "Plastic build feels cheap",
+        "Average microphone quality",
+        "Not ideal for gaming"
+      ],
+      "tags": ["wireless", "music", "work-calls", "has-mic", "pc", "closed-back", "mid-range", "noise-cancelling"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": true,
+        "useCases": ["music", "work-calls"],
+        "platforms": ["pc"],
+        "batteryHours": 40,
+        "weightGrams": 260,
+        "noiseCancelling": true,
+        "openBack": false,
+        "warranty": "18 months"
+      }
+    }
+  ]
+}
