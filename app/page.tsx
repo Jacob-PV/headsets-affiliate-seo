@@ -1,121 +1,119 @@
 import Link from 'next/link';
-import { getAllLandingPages } from '@/lib/landingPages';
+import { getAllCategories } from '@/lib/categories';
 import { generateHomeMetadata } from '@/lib/seo/metadata';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Headphones, Keyboard } from 'lucide-react';
 
 export const metadata = generateHomeMetadata();
 
 export default function HomePage() {
-  const allGuides = getAllLandingPages();
-
-  // Group guides by category or theme
-  const featuredGuides = allGuides.slice(0, 6);
-  const platformGuides = allGuides.filter(
-    (g) =>
-      g.requiredTags.includes('ps5') ||
-      g.requiredTags.includes('xbox') ||
-      g.requiredTags.includes('pc')
-  );
-  const budgetGuides = allGuides.filter((g) => g.requiredTags.includes('budget'));
+  const categories = getAllCategories();
 
   return (
-    <div className="container mx-auto px-4 md:px-6 lg:px-8 py-12">
-      {/* Hero Section */}
-      <section className="max-w-4xl mx-auto text-center mb-16">
-        <h1 className="font-display text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-          Find the Perfect Gaming Headset
-        </h1>
-        <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-8">
-          Expert reviews, detailed comparisons, and buying guides to help you choose the
-          best headset for PC, PS5, Xbox, and more. Updated for 2025.
-        </p>
-        <Link
-          href="/headsets"
-          className="inline-flex items-center gap-2 bg-cta-primary text-white px-8 py-4 rounded text-lg font-semibold hover:bg-cta-hover transition-all duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-blue"
-        >
-          Browse All Guides
-          <ArrowRight className="w-5 h-5" />
-        </Link>
-      </section>
-
-      {/* Featured Guides */}
-      <section className="mb-16">
-        <h2 className="font-display text-3xl font-semibold text-gray-900 mb-8">
-          Featured Buying Guides
-        </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {featuredGuides.map((guide) => (
-            <Link
-              key={guide.slug}
-              href={`/headsets/${guide.slug}`}
-              className="group bg-white border border-gray-200 rounded-lg p-6 hover:border-accent-blue hover:shadow-md transition-all duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-accent-blue focus-visible:outline-offset-2"
-            >
-              <h3 className="font-display text-xl font-semibold text-gray-900 mb-3 group-hover:text-accent-blue transition-colors">
-                {guide.title}
-              </h3>
-              <p className="text-gray-600 mb-4 line-clamp-3">{guide.metaDescription}</p>
-              <div className="flex items-center gap-1 text-accent-blue font-medium">
-                Read guide
-                <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
-              </div>
-            </Link>
-          ))}
+    <div className="min-h-screen">
+      {/* Hero Section with Gradient */}
+      <section className="relative overflow-hidden bg-gradient-to-br from-blue-600 via-purple-600 to-pink-500 text-white py-20 md:py-32">
+        <div className="container mx-auto px-4 md:px-6 lg:px-8 relative z-10">
+          <div className="max-w-4xl mx-auto text-center">
+            <h1 className="font-display text-5xl md:text-7xl font-bold mb-6 drop-shadow-lg">
+              Find Your Perfect Product
+            </h1>
+            <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed drop-shadow">
+              Expert reviews, detailed comparisons, and honest recommendations
+              for gaming gear, peripherals, and tech products.
+            </p>
+            <div className="flex flex-wrap justify-center gap-4">
+              {categories.map(category => (
+                <Link
+                  key={category.id}
+                  href={`/headsets`}
+                  className="inline-flex items-center gap-2 bg-white text-gray-900 px-6 py-3 rounded-lg font-semibold hover:shadow-xl hover:scale-105 transition-all duration-200"
+                >
+                  {category.icon === 'Headphones' ? <Headphones className="w-5 h-5" /> : <Keyboard className="w-5 h-5" />}
+                  {category.name}
+                  <ArrowRight className="w-5 h-5" />
+                </Link>
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* Platform Guides */}
-      {platformGuides.length > 0 && (
-        <section className="mb-16">
-          <h2 className="font-display text-3xl font-semibold text-gray-900 mb-8">
-            Platform-Specific Guides
+      {/* Category Grid */}
+      <section className="py-16 bg-gray-50">
+        <div className="container mx-auto px-4 md:px-6 lg:px-8">
+          <h2 className="font-display text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
+            Browse by Category
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {platformGuides.slice(0, 3).map((guide) => (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+            {categories.map(category => (
               <Link
-                key={guide.slug}
-                href={`/headsets/${guide.slug}`}
-                className="group bg-white border border-gray-200 rounded-lg p-6 hover:border-accent-blue hover:shadow-md transition-all duration-200"
+                key={category.id}
+                href={`/${category.slug}`}
+                className="group relative overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2"
+                style={{ backgroundColor: category.color.bg }}
               >
-                <h3 className="font-display text-xl font-semibold text-gray-900 mb-3 group-hover:text-accent-blue transition-colors">
-                  {guide.title}
-                </h3>
-                <p className="text-gray-600 mb-4 line-clamp-2">{guide.metaDescription}</p>
-                <div className="flex items-center gap-1 text-accent-blue font-medium">
-                  Read guide
-                  <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+                <div className="p-8">
+                  <div className="flex items-center gap-4 mb-4">
+                    {category.icon === 'Headphones' ? (
+                      <div className="p-4 rounded-xl bg-white shadow-md">
+                        <Headphones className="w-8 h-8" style={{ color: category.color.primary }} />
+                      </div>
+                    ) : (
+                      <div className="p-4 rounded-xl bg-white shadow-md">
+                        <Keyboard className="w-8 h-8" style={{ color: category.color.primary }} />
+                      </div>
+                    )}
+                    <div>
+                      <h3 className="font-display text-2xl font-bold text-gray-900">
+                        {category.name}
+                      </h3>
+                      <p className="text-sm text-gray-600">
+                        {category.productCount} products
+                      </p>
+                    </div>
+                  </div>
+                  <p className="text-gray-700 mb-6">
+                    {category.description}
+                  </p>
+                  <div
+                    className="inline-flex items-center gap-2 px-6 py-3 rounded-lg font-semibold text-white transition-all duration-200 group-hover:gap-3"
+                    style={{ backgroundColor: category.color.primary }}
+                  >
+                    View {category.landingPageCount} Guides
+                    <ArrowRight className="w-5 h-5" />
+                  </div>
                 </div>
               </Link>
             ))}
           </div>
-        </section>
-      )}
+        </div>
+      </section>
 
-      {/* Budget Guides */}
-      {budgetGuides.length > 0 && (
-        <section>
-          <h2 className="font-display text-3xl font-semibold text-gray-900 mb-8">
-            Budget-Friendly Options
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {budgetGuides.slice(0, 3).map((guide) => (
-              <Link
-                key={guide.slug}
-                href={`/headsets/${guide.slug}`}
-                className="group bg-white border border-gray-200 rounded-lg p-6 hover:border-accent-blue hover:shadow-md transition-all duration-200"
-              >
-                <h3 className="font-display text-xl font-semibold text-gray-900 mb-3 group-hover:text-accent-blue transition-colors">
-                  {guide.title}
-                </h3>
-                <p className="text-gray-600 mb-4 line-clamp-2">{guide.metaDescription}</p>
-                <div className="flex items-center gap-1 text-accent-blue font-medium">
-                  Read guide
-                  <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
-                </div>
-              </Link>
-            ))}
+      {/* Trust Signals */}
+      <section className="py-16 bg-white">
+        <div className="container mx-auto px-4 md:px-6 lg:px-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center max-w-4xl mx-auto">
+            <div>
+              <div className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
+                37+
+              </div>
+              <div className="text-gray-600 font-medium">Products Reviewed</div>
+            </div>
+            <div>
+              <div className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-2">
+                39+
+              </div>
+              <div className="text-gray-600 font-medium">Expert Guides</div>
+            </div>
+            <div>
+              <div className="text-4xl font-bold bg-gradient-to-r from-pink-600 to-blue-600 bg-clip-text text-transparent mb-2">
+                Daily
+              </div>
+              <div className="text-gray-600 font-medium">Updated Content</div>
+            </div>
           </div>
-        </section>
-      )}
+        </div>
+      </section>
     </div>
   );
 }
