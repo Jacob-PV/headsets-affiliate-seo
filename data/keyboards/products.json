@@ -1,0 +1,528 @@
+{
+  "products": [
+    {
+      "id": "keychron-k8-pro",
+      "name": "Keychron K8 Pro",
+      "brand": "Keychron",
+      "category": "keyboards",
+      "priceUsd": 109.99,
+      "imageUrl": "/images/placeholders/keychron-k8-pro.jpg",
+      "amazonUrl": "https://amazon.com/dp/B0B3P8CYZ6",
+      "shortSummary": "Wireless mechanical keyboard with hot-swappable switches, RGB backlight, and Mac/Windows compatibility.",
+      "pros": [
+        "Hot-swappable Gateron switches",
+        "QMK/VIA programming support",
+        "Wireless and wired modes",
+        "PBT keycaps included",
+        "Full RGB backlighting"
+      ],
+      "cons": [
+        "Slightly heavy for travel",
+        "No dedicated software required but learning curve for QMK",
+        "Battery life reduces with RGB on"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "hot-swappable", "tkl", "gaming", "productivity", "mac", "windows"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": 240,
+        "weightGrams": 850,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "corsair-k100-rgb",
+      "name": "Corsair K100 RGB",
+      "brand": "Corsair",
+      "category": "keyboards",
+      "priceUsd": 229.99,
+      "imageUrl": "/images/placeholders/corsair-k100.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08HR74WV4",
+      "shortSummary": "Premium full-size mechanical gaming keyboard with optical switches and advanced customization.",
+      "pros": [
+        "Ultra-fast optical mechanical switches",
+        "Premium aluminum frame",
+        "Dedicated media controls and volume wheel",
+        "Per-key RGB with iCUE software",
+        "Comfortable magnetic wrist rest"
+      ],
+      "cons": [
+        "Very expensive",
+        "Large footprint",
+        "No wireless option",
+        "Software can be resource-intensive"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "full-size", "gaming", "optical", "premium", "windows"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 1300,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "razer-blackwidow-v3",
+      "name": "Razer BlackWidow V3",
+      "brand": "Razer",
+      "category": "keyboards",
+      "priceUsd": 89.99,
+      "imageUrl": "/images/placeholders/razer-blackwidow-v3.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08FT4FX63",
+      "shortSummary": "Full-size mechanical gaming keyboard with Razer Green switches and Chroma RGB lighting.",
+      "pros": [
+        "Tactile and clicky Razer Green switches",
+        "Razer Chroma RGB integration",
+        "Durable doubleshot ABS keycaps",
+        "Dedicated media keys",
+        "Affordable for a premium brand"
+      ],
+      "cons": [
+        "Loud typing noise",
+        "No hot-swappable switches",
+        "Wired only",
+        "ABS keycaps can shine over time"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "full-size", "gaming", "clicky", "mid-range", "windows"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 1100,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "logitech-g915-tkl",
+      "name": "Logitech G915 TKL",
+      "brand": "Logitech",
+      "category": "keyboards",
+      "priceUsd": 179.99,
+      "imageUrl": "/images/placeholders/logitech-g915-tkl.jpg",
+      "amazonUrl": "https://amazon.com/dp/B085RMD5TP",
+      "shortSummary": "Low-profile wireless mechanical gaming keyboard with LIGHTSPEED technology and premium build quality.",
+      "pros": [
+        "Ultra-thin low-profile design",
+        "LIGHTSPEED wireless (1ms response)",
+        "40-hour battery life",
+        "Aircraft-grade aluminum top case",
+        "Per-key RGB lighting"
+      ],
+      "cons": [
+        "Very expensive",
+        "Low-profile switches not for everyone",
+        "Proprietary keycaps hard to replace",
+        "No wrist rest included"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "tkl", "gaming", "low-profile", "premium", "windows"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc"],
+        "batteryHours": 40,
+        "weightGrams": 810,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "ducky-one-3-tkl",
+      "name": "Ducky One 3 TKL",
+      "brand": "Ducky",
+      "category": "keyboards",
+      "priceUsd": 129.99,
+      "imageUrl": "/images/placeholders/ducky-one-3-tkl.jpg",
+      "amazonUrl": "https://amazon.com/dp/B09M5L2FD2",
+      "shortSummary": "Premium TKL mechanical keyboard with Cherry MX switches and PBT keycaps.",
+      "pros": [
+        "Genuine Cherry MX switches",
+        "High-quality PBT double-shot keycaps",
+        "Hot-swappable PCB",
+        "Excellent build quality",
+        "No software required"
+      ],
+      "cons": [
+        "Wired only",
+        "No dedicated software",
+        "Limited RGB effects without software",
+        "Availability can be spotty"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "tkl", "hot-swappable", "gaming", "productivity", "premium", "windows", "mac"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": null,
+        "weightGrams": 750,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "hyperx-alloy-origins-core",
+      "name": "HyperX Alloy Origins Core",
+      "brand": "HyperX",
+      "category": "keyboards",
+      "priceUsd": 89.99,
+      "imageUrl": "/images/placeholders/hyperx-alloy-origins-core.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07YMHGP86",
+      "shortSummary": "Compact TKL mechanical gaming keyboard with HyperX Red linear switches and RGB backlighting.",
+      "pros": [
+        "HyperX Red linear switches (smooth and quiet)",
+        "Aircraft-grade aluminum body",
+        "Compact TKL design saves space",
+        "RGB backlighting with NGENUITY software",
+        "Affordable price point"
+      ],
+      "cons": [
+        "ABS keycaps instead of PBT",
+        "No hot-swappable switches",
+        "Software only on Windows",
+        "No wireless option"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "tkl", "gaming", "linear", "mid-range", "windows"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 820,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "anne-pro-2",
+      "name": "Anne Pro 2",
+      "brand": "Obinslab",
+      "category": "keyboards",
+      "priceUsd": 79.99,
+      "imageUrl": "/images/placeholders/anne-pro-2.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07Y53QFCQ",
+      "shortSummary": "Compact 60% wireless mechanical keyboard with Bluetooth and customizable RGB.",
+      "pros": [
+        "Ultra-compact 60% layout",
+        "Wireless Bluetooth connectivity",
+        "Choice of Gateron or Kailh switches",
+        "Full RGB backlighting",
+        "Great value for money"
+      ],
+      "cons": [
+        "No dedicated function row",
+        "Learning curve for 60% layout",
+        "Software can be buggy",
+        "Bluetooth latency for gaming"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "60-percent", "gaming", "productivity", "budget", "windows", "mac"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": 80,
+        "weightGrams": 600,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "steelseries-apex-pro",
+      "name": "SteelSeries Apex Pro",
+      "brand": "SteelSeries",
+      "category": "keyboards",
+      "priceUsd": 199.99,
+      "imageUrl": "/images/placeholders/steelseries-apex-pro.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07TBGYW8Q",
+      "shortSummary": "Full-size mechanical keyboard with adjustable actuation OmniPoint switches and OLED display.",
+      "pros": [
+        "Adjustable actuation switches (0.4mm-3.6mm)",
+        "Built-in OLED smart display",
+        "Premium magnetic wrist rest",
+        "Per-key RGB with SteelSeries Engine",
+        "Aircraft-grade aluminum frame"
+      ],
+      "cons": [
+        "Very expensive",
+        "Large footprint",
+        "Wired only",
+        "Software required for customization"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "full-size", "gaming", "premium", "oled", "windows"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 1200,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "rk-royal-kludge-rk61",
+      "name": "Royal Kludge RK61",
+      "brand": "Royal Kludge",
+      "category": "keyboards",
+      "priceUsd": 49.99,
+      "imageUrl": "/images/placeholders/rk-royal-kludge-rk61.jpg",
+      "amazonUrl": "https://amazon.com/dp/B0874Y9VCQ",
+      "shortSummary": "Budget-friendly 60% wireless mechanical keyboard with hot-swappable switches.",
+      "pros": [
+        "Very affordable",
+        "Hot-swappable switches (upgrade path)",
+        "Wireless and wired modes",
+        "Compact 60% form factor",
+        "RGB backlighting"
+      ],
+      "cons": [
+        "Build quality is basic",
+        "Battery life only 10 hours with RGB",
+        "Generic switches (not Cherry MX)",
+        "Software is Windows-only and basic"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "60-percent", "hot-swappable", "gaming", "budget", "windows"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc"],
+        "batteryHours": 10,
+        "weightGrams": 550,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "varmilo-va87m",
+      "name": "Varmilo VA87M",
+      "brand": "Varmilo",
+      "category": "keyboards",
+      "priceUsd": 149.99,
+      "imageUrl": "/images/placeholders/varmilo-va87m.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07XQBY6XW",
+      "shortSummary": "Premium TKL mechanical keyboard with Cherry MX switches and beautiful dye-sublimated PBT keycaps.",
+      "pros": [
+        "Gorgeous aesthetics and keycap designs",
+        "Premium PBT dye-sub keycaps",
+        "Genuine Cherry MX switches",
+        "Excellent build quality",
+        "No software needed"
+      ],
+      "cons": [
+        "Wired only",
+        "No RGB (static LED only)",
+        "No hot-swappable switches",
+        "Pricey for features"
+      ],
+      "tags": ["wired", "mechanical", "tkl", "gaming", "productivity", "premium", "windows", "mac"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity", "typing"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": null,
+        "weightGrams": 900,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "nuphy-air75",
+      "name": "NuPhy Air75",
+      "brand": "NuPhy",
+      "category": "keyboards",
+      "priceUsd": 129.99,
+      "imageUrl": "/images/placeholders/nuphy-air75.jpg",
+      "amazonUrl": "https://amazon.com/dp/B0B8K3BVGZ",
+      "shortSummary": "Ultra-slim wireless mechanical keyboard with low-profile switches and 75% layout.",
+      "pros": [
+        "Ultra-portable low-profile design",
+        "Wireless with 48-hour battery",
+        "Hot-swappable low-profile switches",
+        "Mac and Windows compatibility",
+        "Beautiful aesthetics"
+      ],
+      "cons": [
+        "Low-profile switches feel different",
+        "Expensive for the size",
+        "Limited switch options",
+        "Keycap replacements hard to find"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "75-percent", "hot-swappable", "low-profile", "gaming", "productivity", "premium", "mac", "windows"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity", "travel"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": 48,
+        "weightGrams": 580,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "asus-rog-strix-scope",
+      "name": "ASUS ROG Strix Scope",
+      "brand": "ASUS",
+      "category": "keyboards",
+      "priceUsd": 99.99,
+      "imageUrl": "/images/placeholders/asus-rog-strix-scope.jpg",
+      "amazonUrl": "https://amazon.com/dp/B07NQZ8RMH",
+      "shortSummary": "Full-size mechanical gaming keyboard with Cherry MX switches and extended Ctrl key for FPS gamers.",
+      "pros": [
+        "Genuine Cherry MX switches",
+        "Extended Ctrl key for FPS gaming",
+        "IP56 dust and water resistance",
+        "Aluminum top plate",
+        "RGB Aura Sync lighting"
+      ],
+      "cons": [
+        "Wired only",
+        "No hot-swappable switches",
+        "Software only on Windows",
+        "Plastic base feels cheap"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "full-size", "gaming", "fps", "mid-range", "windows"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming"],
+        "platforms": ["pc"],
+        "batteryHours": null,
+        "weightGrams": 1050,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "glorious-gmmk-pro",
+      "name": "Glorious GMMK Pro",
+      "brand": "Glorious",
+      "category": "keyboards",
+      "priceUsd": 169.99,
+      "imageUrl": "/images/placeholders/glorious-gmmk-pro.jpg",
+      "amazonUrl": "https://amazon.com/dp/B08XYKB5RJ",
+      "shortSummary": "Premium 75% hot-swappable mechanical keyboard with gasket-mount design and rotary knob.",
+      "pros": [
+        "Hot-swappable switches",
+        "Gasket-mounted for better typing feel",
+        "Aluminum CNC body",
+        "Rotary encoder knob",
+        "QMK/VIA support"
+      ],
+      "cons": [
+        "Wired only",
+        "Stabilizers need tuning out of box",
+        "Expensive without switches/keycaps",
+        "Heavy (3.3 lbs)"
+      ],
+      "tags": ["wired", "mechanical", "rgb", "75-percent", "hot-swappable", "gaming", "productivity", "premium", "windows", "mac"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity", "typing"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": null,
+        "weightGrams": 1500,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "akko-3068b-plus",
+      "name": "Akko 3068B Plus",
+      "brand": "Akko",
+      "category": "keyboards",
+      "priceUsd": 74.99,
+      "imageUrl": "/images/placeholders/akko-3068b-plus.jpg",
+      "amazonUrl": "https://amazon.com/dp/B098TQGFBT",
+      "shortSummary": "Wireless 65% mechanical keyboard with hot-swappable switches and colorful designs.",
+      "pros": [
+        "Affordable wireless mechanical keyboard",
+        "Hot-swappable switches",
+        "Beautiful keycap designs",
+        "Wireless and wired modes",
+        "Compact 65% layout"
+      ],
+      "cons": [
+        "Battery life mediocre (12 hours RGB)",
+        "Akko switches not as refined as Cherry",
+        "Software limited functionality",
+        "Bluetooth can lag"
+      ],
+      "tags": ["wireless", "mechanical", "rgb", "65-percent", "hot-swappable", "gaming", "productivity", "budget", "windows", "mac"],
+      "specs": {
+        "connection": "wireless",
+        "hasMic": false,
+        "useCases": ["gaming", "productivity"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": 12,
+        "weightGrams": 680,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    },
+    {
+      "id": "das-keyboard-4-professional",
+      "name": "Das Keyboard 4 Professional",
+      "brand": "Das Keyboard",
+      "category": "keyboards",
+      "priceUsd": 169.99,
+      "imageUrl": "/images/placeholders/das-keyboard-4-professional.jpg",
+      "amazonUrl": "https://amazon.com/dp/B00JG01QTY",
+      "shortSummary": "Premium full-size mechanical keyboard designed for typing enthusiasts and professionals.",
+      "pros": [
+        "Excellent for typing (Cherry MX Brown)",
+        "Premium build quality",
+        "Two-port USB 3.0 hub",
+        "Media controls and volume knob",
+        "No software needed"
+      ],
+      "cons": [
+        "Expensive",
+        "No RGB (not for gamers)",
+        "Wired only",
+        "Large footprint"
+      ],
+      "tags": ["wired", "mechanical", "full-size", "productivity", "typing", "premium", "windows", "mac"],
+      "specs": {
+        "connection": "wired",
+        "hasMic": false,
+        "useCases": ["productivity", "typing"],
+        "platforms": ["pc", "mac"],
+        "batteryHours": null,
+        "weightGrams": 1400,
+        "noiseCancelling": false,
+        "openBack": false,
+        "warranty": "1 year"
+      }
+    }
+  ]
+}

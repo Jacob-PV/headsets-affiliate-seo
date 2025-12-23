@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "headsets",
+      "name": "Gaming Headsets",
+      "slug": "headsets",
+      "description": "Expert reviews and buying guides for gaming headsets across all platforms",
+      "icon": "Headphones",
+      "color": {
+        "primary": "#2563EB",
+        "secondary": "#1D4ED8",
+        "light": "#3B82F6",
+        "bg": "#EFF6FF"
+      },
+      "productCount": 22,
+      "landingPageCount": 27
+    },
+    {
+      "id": "keyboards",
+      "name": "Mechanical Keyboards",
+      "slug": "keyboards",
+      "description": "Comprehensive reviews of mechanical keyboards for gaming and productivity",
+      "icon": "Keyboard",
+      "color": {
+        "primary": "#9333EA",
+        "secondary": "#7C3AED",
+        "light": "#A855F7",
+        "bg": "#F3E8FF"
+      },
+      "productCount": 15,
+      "landingPageCount": 12
+    }
+  ]
+}

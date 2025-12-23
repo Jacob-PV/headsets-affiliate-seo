@@ -2,6 +2,21 @@
 
 A production-ready Amazon affiliate site for gaming headsets built with Next.js 14, TypeScript, and Tailwind CSS. Features 27 SEO-optimized landing pages, 22 products, advanced filtering, comparison tables, and WCAG 2.1 AA accessibility compliance.
 
+## Recent Updates (December 2024)
+
+### Improvements Implemented
+- ✅ **Filter Logic Enhancement** - Multi-select filters now use AND logic instead of OR (e.g., selecting "noise cancelling" AND "built-in mic" shows only products with BOTH features)
+- ✅ **Tag Expansion** - Product tags with "+X more" are now clickable to expand and view all tags
+- ✅ **Multi-Category Infrastructure** - Added category system with keyboards as a second product category (15 keyboard products, 12 landing pages)
+- ✅ **Amazon Link Validation** - Created validation script to check for broken or unavailable product links (run with `npm run validate-links`)
+
+### Category Data Added
+- **Headsets**: 22 products, 27 landing pages
+- **Keyboards**: 15 products, 12 landing pages
+
+### Scripts Added
+- `npm run validate-links` - Validates all Amazon product links across categories
+
 ## Features
 
 ### Content & SEO

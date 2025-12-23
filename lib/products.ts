@@ -24,8 +24,8 @@ export function filterProducts(products: Product[], filters: { [key: string]: st
     return Object.entries(filters).every(([key, values]) => {
       if (values.length === 0) return true;
 
-      // Check if product has any of the selected tags/values
-      return values.some((value) => product.tags.includes(value));
+      // Check if product has ALL of the selected tags/values (AND logic)
+      return values.every((value) => product.tags.includes(value));
     });
   });
 }

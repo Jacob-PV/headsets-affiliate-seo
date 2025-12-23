@@ -1,0 +1,316 @@
+{
+  "landingPages": [
+    {
+      "slug": "wireless-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "10 Best Wireless Mechanical Keyboards (2025 Guide)",
+      "metaDescription": "Discover the top wireless mechanical keyboards with low latency, long battery life, and premium typing experience. Perfect for gaming and productivity.",
+      "h1": "Best Wireless Mechanical Keyboards",
+      "introMarkdown": "Cut the cord without compromising on performance. These wireless mechanical keyboards offer the tactile satisfaction of mechanical switches combined with the freedom of wireless connectivity. We've tested the best options for both gaming and productivity.",
+      "requiredTags": ["wireless", "mechanical"],
+      "optionalFilters": ["switch-type", "layout", "budget"],
+      "productIds": ["keychron-k8-pro", "logitech-g915-tkl", "anne-pro-2", "nuphy-air75", "akko-3068b-plus", "rk-royal-kludge-rk61"],
+      "faq": [
+        {
+          "question": "Is wireless good enough for gaming on mechanical keyboards?",
+          "answer": "Yes! Modern 2.4GHz wireless mechanical keyboards have latency under 1ms, making them perfectly suitable for competitive gaming. Keyboards like the Logitech G915 TKL use LIGHTSPEED technology for instant response."
+        },
+        {
+          "question": "How long do wireless mechanical keyboards last on battery?",
+          "answer": "Battery life varies widely based on usage and RGB settings. Expect 10-80 hours with RGB enabled, or 200-240 hours with RGB off. The Keychron K8 Pro offers up to 240 hours without backlighting."
+        },
+        {
+          "question": "Can I use wireless mechanical keyboards while charging?",
+          "answer": "Yes, most wireless mechanical keyboards can be used in wired mode while charging via USB-C cable, ensuring uninterrupted use."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "hot-swappable-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Hot-Swappable Mechanical Keyboards (2025)",
+      "metaDescription": "Find the best hot-swappable keyboards that let you change switches without soldering. Customize your typing experience with these versatile options.",
+      "h1": "Best Hot-Swappable Mechanical Keyboards",
+      "introMarkdown": "Want to customize your typing experience? Hot-swappable keyboards let you change mechanical switches without soldering, allowing you to experiment with different switch types or upgrade easily. Here are the best hot-swappable options for enthusiasts and beginners alike.",
+      "requiredTags": ["hot-swappable", "mechanical"],
+      "optionalFilters": ["connection", "layout"],
+      "productIds": ["keychron-k8-pro", "glorious-gmmk-pro", "ducky-one-3-tkl", "nuphy-air75", "rk-royal-kludge-rk61", "akko-3068b-plus"],
+      "faq": [
+        {
+          "question": "What are hot-swappable switches?",
+          "answer": "Hot-swappable switches can be removed and replaced without soldering. You simply pull out the old switch and insert a new one, making it easy to customize or upgrade your keyboard."
+        },
+        {
+          "question": "Can I use any switch in a hot-swappable keyboard?",
+          "answer": "Most hot-swappable keyboards use standard 3-pin or 5-pin MX-style sockets, compatible with most Cherry MX-compatible switches. Always verify socket type before purchasing switches."
+        },
+        {
+          "question": "Is hot-swappable less reliable than soldered?",
+          "answer": "No, quality hot-swap sockets are very reliable. They're rated for thousands of switch changes and are just as durable as soldered connections for normal use."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "budget-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Budget Mechanical Keyboards Under $100 (2025)",
+      "metaDescription": "Get premium mechanical keyboard features without breaking the bank. Our top picks for budget mechanical keyboards under $100.",
+      "h1": "Best Budget Mechanical Keyboards Under $100",
+      "introMarkdown": "You don't need to spend $200 to get a great mechanical keyboard. These budget-friendly options under $100 deliver excellent typing feel, solid build quality, and features that rival premium models. Perfect for first-time mechanical keyboard buyers or those on a budget.",
+      "requiredTags": ["mechanical", "budget"],
+      "optionalFilters": ["connection", "layout"],
+      "productIds": ["hyperx-alloy-origins-core", "razer-blackwidow-v3", "anne-pro-2", "akko-3068b-plus", "rk-royal-kludge-rk61", "asus-rog-strix-scope"],
+      "faq": [
+        {
+          "question": "Are cheap mechanical keyboards worth it?",
+          "answer": "Yes! Budget mechanical keyboards under $100 can offer genuine mechanical switches, solid build quality, and great typing experience. Brands like HyperX, Anne Pro, and Akko deliver excellent value."
+        },
+        {
+          "question": "What's the difference between budget and premium mechanical keyboards?",
+          "answer": "Premium keyboards often feature better keycaps (PBT vs ABS), aluminum frames, hot-swappable switches, wireless connectivity, and advanced software. Budget keyboards may use plastic frames and basic features but still deliver the core mechanical switch experience."
+        },
+        {
+          "question": "Which budget mechanical keyboard is best for beginners?",
+          "answer": "The HyperX Alloy Origins Core is an excellent starter keyboard with HyperX Red linear switches, solid build, and straightforward design at $89.99."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "tkl-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best TKL (Tenkeyless) Mechanical Keyboards (2025)",
+      "metaDescription": "Save desk space with the best TKL mechanical keyboards. Compact 80% layout without sacrificing functionality.",
+      "h1": "Best TKL Mechanical Keyboards",
+      "introMarkdown": "Tenkeyless (TKL) keyboards remove the number pad for a more compact footprint, saving valuable desk space while retaining arrow keys and function rows. Ideal for gamers and productivity users who rarely use the numpad, these 80% keyboards offer the perfect balance of functionality and space efficiency.",
+      "requiredTags": ["mechanical", "tkl"],
+      "optionalFilters": ["connection", "switch-type"],
+      "productIds": ["logitech-g915-tkl", "ducky-one-3-tkl", "hyperx-alloy-origins-core", "varmilo-va87m"],
+      "faq": [
+        {
+          "question": "What does TKL mean in keyboards?",
+          "answer": "TKL stands for Tenkeyless, meaning the keyboard lacks the 10-key number pad on the right side. This makes the keyboard about 80% the size of a full-size keyboard, saving desk space while keeping arrow keys and function rows."
+        },
+        {
+          "question": "Is TKL better for gaming?",
+          "answer": "Many gamers prefer TKL keyboards because they allow more space for mouse movement, especially in low-sensitivity FPS games. The compact size also creates a more ergonomic setup with less shoulder strain."
+        },
+        {
+          "question": "Can I still type numbers without a numpad?",
+          "answer": "Yes, all TKL keyboards have the number row across the top. You'll only miss the dedicated numpad if you frequently enter lots of numerical data (accounting, data entry, etc.)."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "60-percent-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best 60% Mechanical Keyboards (2025 Guide)",
+      "metaDescription": "Ultra-compact 60% mechanical keyboards that maximize desk space. Perfect for minimalists and portable setups.",
+      "h1": "Best 60% Mechanical Keyboards",
+      "introMarkdown": "The ultimate in compact keyboard design, 60% mechanical keyboards strip away everything except the alphanumeric keys, offering maximum portability and desk space. While there's a learning curve for accessing function keys, arrow keys, and special characters via layers, the minimalist aesthetic and space savings make them hugely popular among enthusiasts.",
+      "requiredTags": ["mechanical", "60-percent"],
+      "optionalFilters": ["connection", "hot-swappable"],
+      "productIds": ["anne-pro-2", "rk-royal-kludge-rk61"],
+      "faq": [
+        {
+          "question": "What is a 60% keyboard?",
+          "answer": "A 60% keyboard includes only the main alphanumeric keys and modifiers, removing the function row, number pad, and navigation cluster (arrow keys, home, end, etc.). These functions are accessed via keyboard layers using the Fn key."
+        },
+        {
+          "question": "Are 60% keyboards good for gaming?",
+          "answer": "Yes, many gamers love 60% keyboards for maximum mouse space. However, if you use function keys or arrow keys frequently in games, there will be a learning curve to access them via layers."
+        },
+        {
+          "question": "Is 60% keyboard good for programming?",
+          "answer": "It depends on your workflow. Programmers who can adapt to using layers for arrow keys and special characters often love the compact size. Those who rely heavily on dedicated function keys may prefer a 65% or TKL layout."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "75-percent-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best 75% Mechanical Keyboards (2025 Reviews)",
+      "metaDescription": "Compact 75% keyboards with dedicated function row and arrow keys. The perfect balance of size and functionality.",
+      "h1": "Best 75% Mechanical Keyboards",
+      "introMarkdown": "The 75% layout offers the best of both worlds: compact size similar to 60% keyboards but with a dedicated function row and arrow keys. This makes 75% keyboards incredibly versatile for both gaming and productivity, without the steep learning curve of 60% layouts.",
+      "requiredTags": ["mechanical", "75-percent"],
+      "optionalFilters": ["connection", "hot-swappable"],
+      "productIds": ["nuphy-air75", "glorious-gmmk-pro"],
+      "faq": [
+        {
+          "question": "What is a 75% keyboard layout?",
+          "answer": "A 75% keyboard is a compact layout that includes the alphanumeric keys, function row, and arrow keys, but removes the numpad and gaps between key clusters. It's about the same width as a 60% keyboard but includes more functionality."
+        },
+        {
+          "question": "Is 75% better than 60% or TKL?",
+          "answer": "It depends on your needs. 75% offers more functionality than 60% (dedicated arrows and F-row) while being more compact than TKL. It's ideal if you want maximum functionality in minimal space."
+        },
+        {
+          "question": "Are 75% keyboards good for gaming?",
+          "answer": "Yes, 75% keyboards are excellent for gaming. They provide dedicated arrow keys and function keys while maintaining a compact footprint for maximum mouse space."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "full-size-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Full-Size Mechanical Keyboards (2025)",
+      "metaDescription": "Complete mechanical keyboards with number pad and all keys. Perfect for productivity and users who need the numpad.",
+      "h1": "Best Full-Size Mechanical Keyboards",
+      "introMarkdown": "Full-size mechanical keyboards include everything: alphanumeric keys, function row, navigation cluster, and number pad. If you frequently work with numbers, spreadsheets, or simply prefer having all keys readily available without layers, a full-size mechanical keyboard is the right choice.",
+      "requiredTags": ["mechanical", "full-size"],
+      "optionalFilters": ["connection", "switch-type"],
+      "productIds": ["corsair-k100-rgb", "razer-blackwidow-v3", "steelseries-apex-pro", "asus-rog-strix-scope", "das-keyboard-4-professional"],
+      "faq": [
+        {
+          "question": "Why choose a full-size mechanical keyboard?",
+          "answer": "Full-size keyboards are ideal if you regularly use the number pad for data entry, accounting, or spreadsheets. They also have no learning curve since all keys are in their standard positions."
+        },
+        {
+          "question": "Are full-size keyboards too big for gaming?",
+          "answer": "They do take up more desk space, which can limit mouse movement in low-sensitivity gaming. However, many gamers prefer the complete functionality and don't mind the larger footprint."
+        },
+        {
+          "question": "What's the best full-size mechanical keyboard for typing?",
+          "answer": "The Das Keyboard 4 Professional is specifically designed for typing enthusiasts, with Cherry MX Brown switches, premium build quality, and no distracting RGB."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "low-profile-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Low-Profile Mechanical Keyboards (2025)",
+      "metaDescription": "Ultra-slim mechanical keyboards with low-profile switches. Portable, sleek, and comfortable for all-day typing.",
+      "h1": "Best Low-Profile Mechanical Keyboards",
+      "introMarkdown": "Low-profile mechanical keyboards combine the tactile feel of mechanical switches with an ultra-slim design, perfect for portability and modern aesthetics. These keyboards are significantly thinner than traditional mechanical keyboards while maintaining excellent typing feel.",
+      "requiredTags": ["mechanical", "low-profile"],
+      "optionalFilters": ["connection", "layout"],
+      "productIds": ["logitech-g915-tkl", "nuphy-air75"],
+      "faq": [
+        {
+          "question": "Do low-profile mechanical keyboards feel different?",
+          "answer": "Yes, low-profile switches have shorter travel distance (3mm vs 4mm) and lower actuation point, resulting in faster response but less key travel. The typing feel is different but still mechanical and satisfying."
+        },
+        {
+          "question": "Are low-profile keyboards better?",
+          "answer": "It's personal preference. Low-profile keyboards are more portable, look sleeker, and can reduce wrist strain. Traditional keyboards offer more key travel and may feel more satisfying for heavy typists."
+        },
+        {
+          "question": "Can I replace keycaps on low-profile keyboards?",
+          "answer": "Low-profile keyboards use proprietary keycaps that are harder to find than standard keycaps. Replacement options are limited compared to traditional mechanical keyboards."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "rgb-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best RGB Mechanical Keyboards (2025 Guide)",
+      "metaDescription": "Illuminate your setup with the best RGB mechanical keyboards. Per-key lighting, customization, and stunning effects.",
+      "h1": "Best RGB Mechanical Keyboards",
+      "introMarkdown": "RGB lighting has become a staple of gaming setups, and mechanical keyboards with per-key RGB offer stunning customization options. From subtle single-color backlighting to reactive rainbow waves, these keyboards let you personalize your setup with millions of color combinations.",
+      "requiredTags": ["mechanical", "rgb"],
+      "optionalFilters": ["layout", "connection"],
+      "productIds": ["corsair-k100-rgb", "razer-blackwidow-v3", "steelseries-apex-pro", "logitech-g915-tkl", "keychron-k8-pro", "hyperx-alloy-origins-core", "anne-pro-2", "nuphy-air75", "akko-3068b-plus", "asus-rog-strix-scope", "glorious-gmmk-pro"],
+      "faq": [
+        {
+          "question": "Is RGB worth it on mechanical keyboards?",
+          "answer": "If you value aesthetics and customization, yes! RGB lets you match your keyboard to your setup, create functional lighting zones, or simply enjoy beautiful effects. However, it does drain battery on wireless keyboards."
+        },
+        {
+          "question": "Does RGB affect performance?",
+          "answer": "No, RGB lighting does not affect keyboard performance or response time. It's purely aesthetic, though it does consume more power on wireless keyboards."
+        },
+        {
+          "question": "Can I turn off RGB if I don't want it?",
+          "answer": "Yes, all RGB mechanical keyboards allow you to turn off the lighting completely or set it to a static single color if you prefer a cleaner look."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "mechanical-keyboards-for-mac",
+      "category": "keyboards",
+      "title": "Best Mechanical Keyboards for Mac (2025)",
+      "metaDescription": "Top mechanical keyboards optimized for Mac with proper key mapping, macOS shortcuts, and beautiful aesthetics.",
+      "h1": "Best Mechanical Keyboards for Mac",
+      "introMarkdown": "Mac users deserve great mechanical keyboards too! These options feature Mac-specific layouts, proper Command/Option key mapping, and compatibility with macOS. Whether you use a MacBook Pro, iMac, or Mac Mini, these keyboards will elevate your typing experience.",
+      "requiredTags": ["mechanical", "mac"],
+      "optionalFilters": ["layout", "connection"],
+      "productIds": ["keychron-k8-pro", "nuphy-air75", "varmilo-va87m", "ducky-one-3-tkl", "anne-pro-2", "akko-3068b-plus", "glorious-gmmk-pro", "das-keyboard-4-professional"],
+      "faq": [
+        {
+          "question": "Will any mechanical keyboard work with Mac?",
+          "answer": "Yes, most mechanical keyboards work with Mac via USB. However, keyboards designed for Mac offer proper Command/Option/Control key layouts and macOS-specific shortcuts out of the box."
+        },
+        {
+          "question": "What's the best wireless mechanical keyboard for Mac?",
+          "answer": "The Keychron K8 Pro offers excellent Mac support with dedicated Mac keycaps, wireless connectivity, and hot-swappable switches. The NuPhy Air75 is another great low-profile option."
+        },
+        {
+          "question": "Do I need special keycaps for Mac?",
+          "answer": "Not required, but Mac-specific keycaps show the correct symbols (Command, Option) instead of Windows symbols (Win, Alt). Many keyboards include both sets of keycaps."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "gaming-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Mechanical Keyboards for Gaming (2025)",
+      "metaDescription": "Top gaming mechanical keyboards with fast switches, RGB, and anti-ghosting. Dominate your games with these expert picks.",
+      "h1": "Best Mechanical Keyboards for Gaming",
+      "introMarkdown": "Gaming demands precision, speed, and reliability. These mechanical keyboards are specifically designed for gaming with features like anti-ghosting, fast linear switches, customizable macros, and RGB lighting. Whether you're into FPS, MOBA, or MMO games, we've got you covered.",
+      "requiredTags": ["mechanical", "gaming"],
+      "optionalFilters": ["layout", "connection", "switch-type"],
+      "productIds": ["corsair-k100-rgb", "razer-blackwidow-v3", "steelseries-apex-pro", "logitech-g915-tkl", "hyperx-alloy-origins-core", "asus-rog-strix-scope", "keychron-k8-pro", "glorious-gmmk-pro", "anne-pro-2", "rk-royal-kludge-rk61", "akko-3068b-plus"],
+      "faq": [
+        {
+          "question": "What type of mechanical switch is best for gaming?",
+          "answer": "Linear switches (like Cherry MX Red, Gateron Red) are most popular for gaming because they have smooth, consistent keypresses without tactile bumps. However, some gamers prefer tactile or even clicky switches."
+        },
+        {
+          "question": "Do I need a mechanical keyboard for gaming?",
+          "answer": "Not required, but mechanical keyboards offer faster response, more precise actuation, better durability, and superior typing feel compared to membrane keyboards. Competitive gamers often prefer mechanical."
+        },
+        {
+          "question": "Is full-size or TKL better for gaming?",
+          "answer": "TKL is generally preferred by gamers because it saves desk space for mouse movement. However, if you use the number pad for MMO hotkeys or in-game chat, full-size is better."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    },
+    {
+      "slug": "premium-mechanical-keyboards",
+      "category": "keyboards",
+      "title": "Best Premium Mechanical Keyboards ($150+) - 2025",
+      "metaDescription": "Top-tier mechanical keyboards with premium materials, advanced features, and exceptional build quality. Worth the investment for enthusiasts.",
+      "h1": "Best Premium Mechanical Keyboards",
+      "introMarkdown": "For enthusiasts who demand the absolute best, these premium mechanical keyboards deliver exceptional build quality, premium materials, advanced features, and typing experiences that justify their higher price tags. Featuring aluminum frames, PBT keycaps, hot-swappable switches, and meticulous engineering.",
+      "requiredTags": ["mechanical", "premium"],
+      "optionalFilters": ["layout", "connection"],
+      "productIds": ["corsair-k100-rgb", "steelseries-apex-pro", "logitech-g915-tkl", "glorious-gmmk-pro", "varmilo-va87m", "das-keyboard-4-professional", "ducky-one-3-tkl", "nuphy-air75"],
+      "faq": [
+        {
+          "question": "What makes a premium mechanical keyboard worth the price?",
+          "answer": "Premium keyboards feature superior materials (aluminum, PBT keycaps), advanced features (hot-swap, programmability), better switches, exceptional build quality, and refined typing experience that lasts for decades."
+        },
+        {
+          "question": "Is a $200+ mechanical keyboard worth it?",
+          "answer": "If you type or game for many hours daily, the improved comfort, durability, and typing satisfaction can absolutely be worth it. Premium keyboards are often buy-it-for-life investments."
+        },
+        {
+          "question": "What's the most expensive mechanical keyboard?",
+          "answer": "Custom mechanical keyboards can exceed $500, but among mainstream brands, keyboards like the Corsair K100 RGB ($229.99) and SteelSeries Apex Pro ($199.99) represent the high end."
+        }
+      ],
+      "updatedAt": "2025-12-21T00:00:00Z"
+    }
+  ]
+}

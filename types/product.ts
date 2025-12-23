@@ -2,6 +2,7 @@ export interface Product {
   id: string;
   name: string;
   brand: string;
+  category: string; // 'headsets' | 'keyboards' | etc.
   priceUsd: number | null;
   imageUrl: string;
   amazonUrl: string;

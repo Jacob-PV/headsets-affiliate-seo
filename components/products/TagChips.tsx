@@ -1,3 +1,6 @@
+'use client';
+
+import { useState } from 'react';
 import { Badge } from '@/components/ui/Badge';
 
 interface TagChipsProps {
@@ -6,7 +9,9 @@ interface TagChipsProps {
 }
 
 export function TagChips({ tags, limit }: TagChipsProps) {
-  const displayTags = limit ? tags.slice(0, limit) : tags;
+  const [isExpanded, setIsExpanded] = useState(false);
+  const displayTags = limit && !isExpanded ? tags.slice(0, limit) : tags;
+  const hasMore = limit && tags.length > limit;
 
   return (
     <div className="flex flex-wrap gap-2">
@@ -15,8 +20,14 @@ export function TagChips({ tags, limit }: TagChipsProps) {
           {tag}
         </Badge>
       ))}
-      {limit && tags.length > limit && (
-        <Badge variant="default">+{tags.length - limit} more</Badge>
+      {hasMore && !isExpanded && (
+        <button
+          onClick={() => setIsExpanded(true)}
+          className="inline-flex items-center justify-center rounded-full px-3 py-1 text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-blue cursor-pointer"
+          aria-label={`Show ${tags.length - limit} more tags`}
+        >
+          +{tags.length - limit} more
+        </button>
       )}
     </div>
   );

@@ -19,18 +19,37 @@
         "USB sound card only works on PC",
         "Slightly bulky for travel"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "switch", "closed-back", "mid-range"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "xbox",
+        "switch",
+        "closed-back",
+        "mid-range"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "music"],
-        "platforms": ["pc", "ps5", "xbox", "switch"],
+        "useCases": [
+          "gaming",
+          "music"
+        ],
+        "platforms": [
+          "pc",
+          "ps5",
+          "xbox",
+          "switch"
+        ],
         "batteryHours": null,
         "weightGrams": 320,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "steelseries-arctis-7",
@@ -51,18 +70,32 @@
         "USB dongle required",
         "Pricier than wired alternatives"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "pc", "ps5", "closed-back", "premium"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "closed-back",
+        "premium"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["pc", "ps5"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "pc",
+          "ps5"
+        ],
         "batteryHours": 24,
         "weightGrams": 350,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "razer-blackshark-v2",
@@ -83,18 +116,30 @@
         "Requires USB sound card for full features",
         "No console compatibility without adapter"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "closed-back", "budget"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "budget"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["pc"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 262,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "corsair-hs60",
@@ -115,18 +160,37 @@
         "Short cable length",
         "No USB sound card included"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "switch", "closed-back", "budget"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "xbox",
+        "switch",
+        "closed-back",
+        "budget"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "work-calls"],
-        "platforms": ["pc", "ps5", "xbox", "switch"],
+        "useCases": [
+          "gaming",
+          "work-calls"
+        ],
+        "platforms": [
+          "pc",
+          "ps5",
+          "xbox",
+          "switch"
+        ],
         "batteryHours": null,
         "weightGrams": 290,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "logitech-g-pro-x",
@@ -147,18 +211,31 @@
         "Software required for full features",
         "Heavier than competitors"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "closed-back", "premium"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "premium"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "streaming"],
-        "platforms": ["pc"],
+        "useCases": [
+          "gaming",
+          "streaming"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 320,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "sennheiser-game-one",
@@ -179,18 +256,36 @@
         "Not ideal for loud environments",
         "Premium pricing"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "open-back", "premium", "audiophile"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "xbox",
+        "open-back",
+        "premium",
+        "audiophile"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "music"],
-        "platforms": ["pc", "ps5", "xbox"],
+        "useCases": [
+          "gaming",
+          "music"
+        ],
+        "platforms": [
+          "pc",
+          "ps5",
+          "xbox"
+        ],
         "batteryHours": null,
         "weightGrams": 285,
         "noiseCancelling": false,
         "openBack": true,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "astro-a40-tr",
@@ -211,18 +306,35 @@
         "MixAmp sold separately",
         "Requires desk space for full setup"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "closed-back", "premium"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "xbox",
+        "closed-back",
+        "premium"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "streaming"],
-        "platforms": ["pc", "ps5", "xbox"],
+        "useCases": [
+          "gaming",
+          "streaming"
+        ],
+        "platforms": [
+          "pc",
+          "ps5",
+          "xbox"
+        ],
         "batteryHours": null,
         "weightGrams": 369,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "sony-pulse-3d",
@@ -243,18 +355,31 @@
         "Average build quality",
         "Mic quality could be better"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "ps5", "closed-back", "mid-range"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "ps5",
+        "closed-back",
+        "mid-range"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["ps5", "pc"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "ps5",
+          "pc"
+        ],
         "batteryHours": 12,
         "weightGrams": 292,
         "noiseCancelling": true,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "microsoft-xbox-wireless",
@@ -275,18 +400,32 @@
         "Bluetooth and Xbox wireless can't be used simultaneously",
         "No PS5 compatibility"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "xbox", "pc", "closed-back", "mid-range"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "xbox",
+        "pc",
+        "closed-back",
+        "mid-range"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["xbox", "pc"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "xbox",
+          "pc"
+        ],
         "batteryHours": 15,
         "weightGrams": 315,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "audio-technica-m50x",
@@ -307,18 +446,32 @@
         "Coiled cable tangles easily",
         "Tight clamp force initially"
       ],
-      "tags": ["wired", "music", "no-mic", "pc", "closed-back", "premium", "audiophile"],
+      "tags": [
+        "wired",
+        "music",
+        "no-mic",
+        "pc",
+        "closed-back",
+        "premium",
+        "audiophile"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": false,
-        "useCases": ["music", "studio"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music",
+          "studio"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 284,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "beyerdynamic-dt-990-pro",
@@ -339,18 +492,32 @@
         "Open-back leaks sound",
         "Requires amplification for best performance"
       ],
-      "tags": ["wired", "music", "no-mic", "pc", "open-back", "premium", "audiophile"],
+      "tags": [
+        "wired",
+        "music",
+        "no-mic",
+        "pc",
+        "open-back",
+        "premium",
+        "audiophile"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": false,
-        "useCases": ["music", "studio"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music",
+          "studio"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 250,
         "noiseCancelling": false,
         "openBack": true,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "jabra-evolve2-65",
@@ -371,18 +538,31 @@
         "Not ideal for gaming",
         "Limited music quality"
       ],
-      "tags": ["wireless", "work-calls", "has-mic", "pc", "closed-back", "premium", "noise-cancelling"],
+      "tags": [
+        "wireless",
+        "work-calls",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "premium",
+        "noise-cancelling"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["work-calls"],
-        "platforms": ["pc"],
+        "useCases": [
+          "work-calls"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": 37,
         "weightGrams": 176,
         "noiseCancelling": true,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "logitech-h390",
@@ -403,18 +583,31 @@
         "Plastic build feels cheap",
         "Non-detachable cable"
       ],
-      "tags": ["wired", "work-calls", "has-mic", "pc", "closed-back", "budget", "noise-cancelling"],
+      "tags": [
+        "wired",
+        "work-calls",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "budget",
+        "noise-cancelling"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["work-calls"],
-        "platforms": ["pc"],
+        "useCases": [
+          "work-calls"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 152,
         "noiseCancelling": true,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "bose-quietcomfort-45",
@@ -435,18 +628,33 @@
         "Microphone quality just okay",
         "Not optimized for gaming"
       ],
-      "tags": ["wireless", "work-calls", "music", "has-mic", "pc", "closed-back", "premium", "noise-cancelling"],
+      "tags": [
+        "wireless",
+        "work-calls",
+        "music",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "premium",
+        "noise-cancelling"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["work-calls", "music"],
-        "platforms": ["pc"],
+        "useCases": [
+          "work-calls",
+          "music"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": 24,
         "weightGrams": 240,
         "noiseCancelling": true,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "mpow-h7",
@@ -467,18 +675,32 @@
         "Average microphone quality",
         "No active noise cancellation"
       ],
-      "tags": ["wireless", "music", "work-calls", "has-mic", "pc", "closed-back", "budget"],
+      "tags": [
+        "wireless",
+        "music",
+        "work-calls",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "budget"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["music", "work-calls"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music",
+          "work-calls"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": 18,
         "weightGrams": 220,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "18 months"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "turtle-beach-stealth-600",
@@ -499,18 +721,30 @@
         "Plastic build feels less premium",
         "Occasional wireless interference"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "ps5", "closed-back", "mid-range"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "ps5",
+        "closed-back",
+        "mid-range"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["ps5"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "ps5"
+        ],
         "batteryHours": 15,
         "weightGrams": 280,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "1 year"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "corsair-virtuoso-rgb",
@@ -531,18 +765,33 @@
         "Tight fit for larger heads",
         "RGB lighting drains battery faster"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "pc", "ps5", "closed-back", "premium"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "closed-back",
+        "premium"
+      ],
       "specs": {
         "connection": "both",
         "hasMic": true,
-        "useCases": ["gaming", "streaming"],
-        "platforms": ["pc", "ps5"],
+        "useCases": [
+          "gaming",
+          "streaming"
+        ],
+        "platforms": [
+          "pc",
+          "ps5"
+        ],
         "batteryHours": 20,
         "weightGrams": 360,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "koss-porta-pro",
@@ -563,18 +812,31 @@
         "On-ear can be uncomfortable for long sessions",
         "Lacks noise isolation"
       ],
-      "tags": ["wired", "music", "no-mic", "pc", "open-back", "budget", "audiophile"],
+      "tags": [
+        "wired",
+        "music",
+        "no-mic",
+        "pc",
+        "open-back",
+        "budget",
+        "audiophile"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": false,
-        "useCases": ["music"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 60,
         "noiseCancelling": false,
         "openBack": true,
         "warranty": "Lifetime"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "philips-shp9500",
@@ -595,18 +857,32 @@
         "Open-back leaks sound",
         "Plastic build"
       ],
-      "tags": ["wired", "music", "no-mic", "pc", "open-back", "mid-range", "audiophile"],
+      "tags": [
+        "wired",
+        "music",
+        "no-mic",
+        "pc",
+        "open-back",
+        "mid-range",
+        "audiophile"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": false,
-        "useCases": ["music", "gaming"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music",
+          "gaming"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": null,
         "weightGrams": 240,
         "noiseCancelling": false,
         "openBack": true,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "cooler-master-mh751",
@@ -627,18 +903,35 @@
         "Mic quality is average",
         "Limited software features"
       ],
-      "tags": ["wired", "gaming", "has-mic", "pc", "ps5", "xbox", "closed-back", "mid-range"],
+      "tags": [
+        "wired",
+        "gaming",
+        "has-mic",
+        "pc",
+        "ps5",
+        "xbox",
+        "closed-back",
+        "mid-range"
+      ],
       "specs": {
         "connection": "wired",
         "hasMic": true,
-        "useCases": ["gaming", "music"],
-        "platforms": ["pc", "ps5", "xbox"],
+        "useCases": [
+          "gaming",
+          "music"
+        ],
+        "platforms": [
+          "pc",
+          "ps5",
+          "xbox"
+        ],
         "batteryHours": null,
         "weightGrams": 270,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "hyperx-cloud-alpha-wireless",
@@ -659,18 +952,30 @@
         "PC only (no console support)",
         "Heavier than competitors"
       ],
-      "tags": ["wireless", "gaming", "has-mic", "pc", "closed-back", "premium"],
+      "tags": [
+        "wireless",
+        "gaming",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "premium"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["gaming"],
-        "platforms": ["pc"],
+        "useCases": [
+          "gaming"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": 300,
         "weightGrams": 320,
         "noiseCancelling": false,
         "openBack": false,
         "warranty": "2 years"
-      }
+      },
+      "category": "headsets"
     },
     {
       "id": "anker-soundcore-q30",
@@ -691,18 +996,33 @@
         "Average microphone quality",
         "Not ideal for gaming"
       ],
-      "tags": ["wireless", "music", "work-calls", "has-mic", "pc", "closed-back", "mid-range", "noise-cancelling"],
+      "tags": [
+        "wireless",
+        "music",
+        "work-calls",
+        "has-mic",
+        "pc",
+        "closed-back",
+        "mid-range",
+        "noise-cancelling"
+      ],
       "specs": {
         "connection": "wireless",
         "hasMic": true,
-        "useCases": ["music", "work-calls"],
-        "platforms": ["pc"],
+        "useCases": [
+          "music",
+          "work-calls"
+        ],
+        "platforms": [
+          "pc"
+        ],
         "batteryHours": 40,
         "weightGrams": 260,
         "noiseCancelling": true,
         "openBack": false,
         "warranty": "18 months"
-      }
+      },
+      "category": "headsets"
     }
   ]
 }
